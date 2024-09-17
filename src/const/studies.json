@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Master's degree at Universty of Paris Sacaly",
+        "subTitle": "From 09-2017 to 06-2020",
+        "text": "MIAGE (Computerized Methods Applied to Business Management).",
+        "imageUrl": "./images/etu/logo_universite_evry.png"
+    },
+    {
+        "title": "Bachelor's degree at Universty of Paris Sacaly",
+        "subTitle": "From 09-2016 to 06-2017",
+        "text": "MIAGE (Computerized Methods Applied to Business Management).",
+        "imageUrl": "./images/etu/logo_universite_evry.png"
+    },
+    {
+        "title": "Licence 1 & 2 at Universty of Béjaïa",
+        "subTitle": "From 09-2014 to 06-2016",
+        "text": "MI (Mathematics & Computer Science).",
+        "imageUrl": "./images/etu/universite_abderrahmane-mira_de_bejaia.png"
+    },
+    {
+        "title": "Baccalaureate at LALA Fatma N'SOUMER High School",
+        "subTitle": "From 06-2016 to 07-2016",
+        "text": "S (Scientific Baccalaureate).",
+        "imageUrl": "./images/etu/lycee.png"
+    }
+]

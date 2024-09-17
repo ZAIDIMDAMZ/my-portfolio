@@ -1,0 +1,10 @@
+.aboutme-container {
+  position: relative;
+  background: #2c3e50;
+  padding: 20px;
+}
+
+.aboutme-image {
+  box-shadow: 8px 8px 10px 0 rgba(0, 0, 0, 0.5);
+  border: cornflowerblue 2px solid;
+}

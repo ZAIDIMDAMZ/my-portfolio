@@ -1,0 +1,21 @@
+/* navbar.css */
+
+.navbar-custom {
+  background: linear-gradient(
+    90deg,
+    #0d47a1,
+    #1e88e5
+  ); /* Dégradé de bleu foncé */
+}
+
+.navbar-brand img {
+  border-radius: 50%; /* Pour rendre l'image circulaire */
+}
+
+.navbar-nav .nav-link {
+  color: white !important; /* Pour s'assurer que les liens sont en blanc */
+}
+
+.scroll-link {
+  cursor: pointer;
+}

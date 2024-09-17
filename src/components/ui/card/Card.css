@@ -1,0 +1,26 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: all 0.3s;
+  align-items: center;
+}
+
+.card-image {
+  width: 150px; /* Taille uniforme pour tous les logos */
+  height: 150px; /* Taille uniforme pour tous les logos */
+  object-fit: contain; /* Affiche l'image en entier sans la couper */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cadr-text {
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}

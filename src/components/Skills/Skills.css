@@ -1,0 +1,35 @@
+.skills-container {
+  position: relative;
+  /* background: grey; */
+  padding: 10px;
+  margin: 10px 0 10px 0;
+}
+
+.logo-marquee {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  /* background-color: #000; */
+  overflow: hidden;
+}
+
+.logo-track {
+  display: flex;
+  width: 100%;
+  animation: scroll 15s alternate infinite;
+}
+
+.logo-track img {
+  height: 100px;
+  margin-right: 70px;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    /* transform: translateX(-800%); */
+    transform: translateX(-230%);
+  }
+}
