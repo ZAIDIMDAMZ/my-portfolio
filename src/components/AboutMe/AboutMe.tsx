@@ -6,7 +6,7 @@ import './AboutMe.css';
 import { FaHandSparkles } from 'react-icons/fa';
 import { GiRocketThruster } from 'react-icons/gi';
 import Title from '../ui/title/Title';
-
+// import c from '../../../public/Images/aboutme-img.jpg'
 const AboutMe = () => {
     return (
         <div className="aboutme-container">
@@ -26,7 +26,7 @@ const AboutMe = () => {
                     </Col>
                     <Col xs={12} md={6} className="d-flex justify-content-center position-relative">
                         <Image
-                            src={'/images/aboutme-img.jpg'}
+                            src='/Images/aboutme-img.jpg'
                             alt="Photo de Mohand-Ameziane ZAIDI"
                             fluid
                             className='aboutme-image'
