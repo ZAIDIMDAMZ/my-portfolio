@@ -26,7 +26,7 @@ const AboutMe = () => {
                     </Col>
                     <Col xs={12} md={6} className="d-flex justify-content-center position-relative">
                         <Image
-                            src={'./images/aboutme-img.jpg'}
+                            src={'/images/aboutme-img.jpg'}
                             alt="Photo de Mohand-Ameziane ZAIDI"
                             fluid
                             className='aboutme-image'

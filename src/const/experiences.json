@@ -3,24 +3,24 @@
         "title": "Web full stack developper at Chabé",
         "subTitle": "Since 08-2021",
         "text": "During this experience, I was involved in all phases of IT projects, from requirements gathering to deployment, specializing in the agile design and development of web applications on Azure cloud infrastructure. I provided technical guidance to contractors to enhance their skills, fostering successful collaborations. My expertise also contributed to the company's expansion in both national and international markets, through innovative and tailored technical solutions.",
-        "imageUrl": "./images/pro/Logo_Chabé.png"
+        "imageUrl": "/images/pro/Logo_Chabé.png"
     },
     {
         "title": "Web backend developper at Angles",
         "subTitle": "From 02-2021 to 08-2021",
         "text": "During my time at Angles, I developed and integrated advanced API and specialized backend applications aligned with specific business needs. I actively participated in the implementation and optimization of the Azure environment, ensuring a robust and scalable technological infrastructure. Additionally, I expertly managed the data transfer from the ERP to other systems, such as Salesforce CRM and Power BI, ensuring seamless connectivity and optimal use of information across various platforms.",
-        "imageUrl": "./images/pro/logo-angles.jpg"
+        "imageUrl": "/images/pro/logo-angles.jpg"
     },
     {
         "title": "Applications developper at SFR Business & Altice",
         "subTitle": "From 07-2017 to 09-2020",
         "text": "During my experience at SFR Business and Altice, I developed and deployed time and resource management applications, ensuring effective optimization of operational processes. I also ensured the stability and performance of applications in production. This role marked my initiation into web development.",
-        "imageUrl": "./images/pro/sfr-altice.png"
+        "imageUrl": "/images/pro/sfr-altice.png"
     },
     {
         "title": "Trainee at Sonatrach",
         "subTitle": "From 06-2016 to 07-2016",
         "text": "During my experience at Sonatrach, I integrated into the professional world by discovering the company and its organizational structure. This opportunity allowed me to build my first professional and human relationships.",
-        "imageUrl": "./images/pro/Sonatrach.png"
+        "imageUrl": "/images/pro/Sonatrach.png"
     }
 ]
