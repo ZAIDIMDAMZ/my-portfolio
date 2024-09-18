@@ -18,7 +18,7 @@ function NavBar() {
             <Container className="text-center">
                 <Navbar.Brand href="#home">
                     <Image
-                        src={'./images/photo-bezza.jpg'}
+                        src={'/Images/photo-bezza.jpg'}
                         width="50"
                         height="50"
                         className="d-inline-block align-top"
