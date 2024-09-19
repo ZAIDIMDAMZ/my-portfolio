@@ -6,7 +6,7 @@ import './AboutMe.css';
 import { FaHandSparkles } from 'react-icons/fa';
 import { GiRocketThruster } from 'react-icons/gi';
 import Title from '../ui/title/Title';
-// import c from '../../../public/Images/aboutme-img.jpg'
+
 const AboutMe = () => {
     return (
         <div className="aboutme-container">
