@@ -1,22 +1,19 @@
 .skills-container {
   position: relative;
-  /* background: grey; */
   padding: 10px;
-  margin: 10px 0 10px 0;
+  margin: 10px 0;
 }
 
 .logo-marquee {
   position: relative;
-  bottom: 0;
   width: 100%;
-  /* background-color: #000; */
   overflow: hidden;
 }
 
 .logo-track {
-  display: flex;
-  width: 100%;
-  animation: scroll 15s alternate infinite;
+  display: inline-flex;
+  white-space: nowrap; /* Empêche le retour à la ligne */
+  animation: scroll 20s alternate infinite;
 }
 
 .logo-track img {
@@ -24,12 +21,18 @@
   margin-right: 70px;
 }
 
+@media (max-width: 768px) {
+  .logo-track img {
+    height: 70px; /* Ajustement de la taille des logos pour les petits écrans */
+    margin-right: 50px;
+  }
+}
+
 @keyframes scroll {
   0% {
-    transform: translateX(100%);
+    transform: translateX(30%);
   }
   100% {
-    /* transform: translateX(-800%); */
-    transform: translateX(-230%);
+    transform: translateX(-100%);
   }
 }
