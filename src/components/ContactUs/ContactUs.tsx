@@ -48,7 +48,7 @@ function ContactUs() {
                 <Title title='Contact me' />
                 <Form onSubmit={handleSubmit}>
                     <Form.Group className="mb-3" controlId="formEmail">
-                        <Form.Label>Email address</Form.Label>
+                        <Form.Label>Your Email address</Form.Label>
                         <Form.Control
                             type="email"
                             placeholder="name@example.com"
@@ -58,7 +58,7 @@ function ContactUs() {
                         />
                     </Form.Group>
                     <Form.Group className="mb-3" controlId="formSubject">
-                        <Form.Label>Email subject</Form.Label>
+                        <Form.Label>Your subject</Form.Label>
                         <Form.Control
                             type="text"
                             placeholder="Email subject !"
@@ -68,7 +68,7 @@ function ContactUs() {
                         />
                     </Form.Group>
                     <Form.Group className="mb-3" controlId="formMessage">
-                        <Form.Label>Message</Form.Label>
+                        <Form.Label>Your message text</Form.Label>
                         <Form.Control
                             as="textarea"
                             rows={3}
